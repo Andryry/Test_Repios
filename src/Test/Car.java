@@ -9,10 +9,6 @@ public class Car {
         this.modelName = modelName;
         this.fuelQuantity = fuelQuantity;
     }
-// constructor
-
-
-
     public Float getFuelQuantity() {
         return fuelQuantity;
     }
