@@ -34,6 +34,8 @@ class Loh implements Testq {
     public static void main(String[] args) {
         Loh loh = new Loh();
         Testq testq = loh::say;
+
+        System.out.println("Лхо");
     }
 }
 
