@@ -16,6 +16,7 @@ class Loh implements Testq {
         System.out.println("H");
     }
 
+
     public void say(String a) {
         System.out.println("Hello");
     }
