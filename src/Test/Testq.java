@@ -6,6 +6,7 @@ public interface Testq {
 
     default void sayHell() {
         System.out.println("Hello");
+
     }
 }
 
