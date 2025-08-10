@@ -11,6 +11,7 @@ public interface Testq {
 
 class Loh implements Testq {
 
+
     static void hel() {
         System.out.println("H");
     }
